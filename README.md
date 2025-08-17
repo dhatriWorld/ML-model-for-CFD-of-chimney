@@ -12,14 +12,6 @@ This approach helps reduce the computational cost of CFD by providing quick appr
 
 ---
 
-## 📂 Project Structure
-├── data/ # CFD dataset (CSV files)
-├── xg.pkl # Saved XGBoost model
-├── ML-CFD-Chimney.ipynb # Main notebook / script
-├── README.md # Project documentation
-
----
-
 ## ⚙️ Features
 
 - **Exploratory Data Analysis (EDA)**  
